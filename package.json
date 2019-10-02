@@ -1,0 +1,33 @@
+{
+  "name": "my-sample-package",
+  "version": "1.0.0",
+  "description": "This is a sample package for testing purpose. Also an example for how to make an npm package in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raushanji/my-sample-package.git"
+  },
+  "keywords": [
+    "sample-package",
+    "generating-a-react-native-package",
+    "test-package",
+    "react-native-package"
+  ],
+  "author": "Raushan Ranjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raushanji/my-sample-package/issues"
+  },
+  "homepage": "https://github.com/raushanji/my-sample-package#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0"
+  },
+  "dependencies": {
+    "react": "^16.10.1",
+    "react-native": "^0.61.1",
+    "yarn": "^1.19.0"
+  }
+}
