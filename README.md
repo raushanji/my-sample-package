@@ -7,8 +7,8 @@ If you're looking to **build a website or a cross-platform mobile app** – we w
 # My Sample Package Documentation
 
 ## Import components
-1. `yarn add my-sample-package` OR 
-2. `npm i my-sample-package`
+1. `yarn add @raushanranjan/my-sample-package` OR 
+2. `npm i @raushanranjan/my-sample-package`
 2. Use with ES6 syntax to import components
 
 ```js

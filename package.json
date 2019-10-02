@@ -1,5 +1,5 @@
 {
-  "name": "my-sample-package",
+  "name": "@raushanranjan/my-sample-package",
   "version": "1.0.0",
   "description": "This is a sample package for testing purpose. Also an example for how to make an npm package in react-native",
   "main": "index.js",
